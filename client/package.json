@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bo": "0.0.3",
     "jquery": "^3.5.1",
     "moment": "^2.25.3",
